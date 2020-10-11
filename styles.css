@@ -12,3 +12,8 @@
     animation: mouse 2s infinite;
     top: 50vh; 
   }
+  .about {
+    text-align: center;
+    line-height: 2.5;
+    font-size: 20px;
+  }
