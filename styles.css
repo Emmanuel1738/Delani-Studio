@@ -1,0 +1,13 @@
+#home {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    padding-top: 310px;
+    color: white;
+}
+#mouse {
+    animation: mouse 2s infinite;
+    top: 50vh; 
+  }
