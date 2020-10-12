@@ -18,8 +18,8 @@
 
 ## Deployment
 
-- You can vist the site directly by clicking [HERE]
-- To view the source codes on github click [HERE]
+- You can vist the site directly by clicking [HERE]https://emmanuel1738.github.io/Delani-Studio/
+- To view the source codes on github click [HERE]https://github.com/Emmanuel1738/Delani-Studio
 
 ## BDD
 
