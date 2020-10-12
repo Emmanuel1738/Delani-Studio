@@ -8,6 +8,11 @@
     padding-top: 310px;
     color: white;
 }
+.header {
+  font-size: 3.5em;
+  padding-top: 33px;
+  font-family: "Open Sans", sans-serif;
+}
 #mouse {
     animation: mouse 2s infinite;
     top: 50vh; 
