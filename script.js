@@ -101,4 +101,8 @@ $(document).ready(function() {
     function() {
       $("#text8").show("2000");
     },
-    
+    function() {
+        $("#text8").hide("2000");
+      }
+    );
+  });
