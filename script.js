@@ -41,3 +41,64 @@ $(document).ready(function() {
     $("#productImage").show("2000");
     $("#product").hide("slow")
   });
+  $("#project1").hover(
+    function() {
+      $("#text1").show("2000");
+    },
+    function() {
+      $("#text1").hide("2000");
+    }
+  );
+  $("#project2").hover(
+    function() {
+      $("#text2").show("2000");
+    },
+    function() {
+      $("#text2").hide("2000");
+    }
+  );
+  $("#project3").hover(
+    function() {
+      $("#text3").show("2000");
+    },
+    function() {
+      $("#text3").hide("2000");
+    }
+  );
+  $("#project4").hover(
+    function() {
+      $("#text4").show("2000");
+    },
+    function() {
+      $("#text4").hide("2000");
+    }
+  );
+  $("#project5").hover(
+    function() {
+      $("#text5").show("2000");
+    },
+    function() {
+      $("#text5").hide("2000");
+    }
+  );
+  $("#project6").hover(
+    function() {
+      $("#text6").show("2000");
+    },
+    function() {
+      $("#text6").hide("2000");
+    }
+  );
+  $("#project7").hover(
+    function() {
+      $("#text7").show("2000");
+    },
+    function() {
+      $("#text7").hide("2000");
+    }
+  );
+  $("#project8").hover(
+    function() {
+      $("#text8").show("2000");
+    },
+    
