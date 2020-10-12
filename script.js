@@ -41,68 +41,68 @@ $(document).ready(function() {
     $("#productImage").show("2000");
     $("#product").hide("slow")
   });
-  $("#project1").hover(
+  $("#work1").hover(
     function() {
-      $("#text1").show("2000");
+      $("#txt1").show("");
     },
     function() {
-      $("#text1").hide("2000");
+      $("#txt1").hide("");
     }
   );
-  $("#project2").hover(
+  $("#work2").hover(
     function() {
-      $("#text2").show("2000");
+      $("#txt2").show("");
     },
     function() {
-      $("#text2").hide("2000");
+      $("#txt2").hide("");
     }
   );
-  $("#project3").hover(
+  $("#work3").hover(
     function() {
-      $("#text3").show("2000");
+      $("#txt3").show("");
     },
     function() {
-      $("#text3").hide("2000");
+      $("#txt3").hide("");
     }
   );
-  $("#project4").hover(
+  $("#work4").hover(
     function() {
-      $("#text4").show("2000");
+      $("#txt4").show("");
     },
     function() {
-      $("#text4").hide("2000");
+      $("#txt4").hide("");
     }
   );
-  $("#project5").hover(
+  $("#work5").hover(
     function() {
-      $("#text5").show("2000");
+      $("#txt5").show("");
     },
     function() {
-      $("#text5").hide("2000");
+      $("#txt5").hide("");
     }
   );
-  $("#project6").hover(
+  $("#work6").hover(
     function() {
-      $("#text6").show("2000");
+      $("#txt6").show("");
     },
     function() {
-      $("#text6").hide("2000");
+      $("#txt6").hide("");
     }
   );
-  $("#project7").hover(
+  $("#work7").hover(
     function() {
-      $("#text7").show("2000");
+      $("#txt7").show("");
     },
     function() {
-      $("#text7").hide("2000");
+      $("#txt7").hide("");
     }
   );
-  $("#project8").hover(
+  $("#work8").hover(
     function() {
-      $("#text8").show("2000");
+      $("#txt8").show("");
     },
     function() {
-        $("#text8").hide("2000");
-      }
-    );
-  });
+      $("#txt8").hide("");
+    }
+  );
+});
