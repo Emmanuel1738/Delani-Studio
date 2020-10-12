@@ -54,3 +54,12 @@
   .services {
     font-size: 21px;
   }
+  #service {
+    background-image: 
+      url(https://bit.ly/329RzGF);
+      background-repeat: no-repeat;
+      background-size: cover;
+    height: 60vh;
+    color: white;
+    padding-top: 90px;
+  }
