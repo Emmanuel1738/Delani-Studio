@@ -88,3 +88,38 @@
   #textarea::placeholder {
     color: white;
   }
+  .roows {
+    padding: 1rem;
+  }
+  .text {
+    position: absolute;
+    top: 50%;
+    color: black;
+    font-size: 1.3em;
+    border: 3px solid white;
+    padding:20px 20px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .text {
+    display: none;
+  }
+
+  .portfolio:hover {
+    opacity: 0.3;
+    transform: scale(1.1);
+    transition: opacity 0.5s ease-out;
+  }
+  .whatWeDo {
+    font-size: 1.2em;
+    line-height: 1.9;
+    display: none;
+  }
+  .pointer {
+    cursor: pointer;
+  }
+  .pointer:hover {
+    transform: scale(0.8);
+    box-shadow: 5px 10px 8px 10px #888888;
+    border-radius: 20%;
+  }
