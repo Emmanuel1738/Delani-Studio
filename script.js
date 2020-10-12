@@ -14,4 +14,22 @@ function validateForm() {
           ", we have received your message. Thank you for reaching out to us."
       );
     }
-    
+    event.preventDefault();
+}
+$(document).ready(function() {
+  $("#designImage").click(function() {
+    $("#design").show("2000");
+    $("#designImage").hide("slow")
+  });
+  $("#design").click(function() {
+    $("#designImage").show("2000");
+    $("#design").hide("slow")
+  });
+  $("#developImage").click(function() {
+    $("#development").show("2000");
+    $("#developImage").hide("slow")
+  });
+  $("#development").click(function() {
+    $("#developImage").show("2000");
+    $("#development").hide("slow")
+  });
