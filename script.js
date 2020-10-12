@@ -33,3 +33,11 @@ $(document).ready(function() {
     $("#developImage").show("2000");
     $("#development").hide("slow")
   });
+  $("#productImage").click(function() {
+    $("#product").show("2000");
+    $("#productImage").hide("slow")
+  }); 
+  $("#product").click(function() {
+    $("#productImage").show("2000");
+    $("#product").hide("slow")
+  });
