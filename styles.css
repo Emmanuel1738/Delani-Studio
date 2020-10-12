@@ -72,3 +72,19 @@
     height: 60vh;
     color: white;
   }
+  .form {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  #email,
+  #textarea,
+  #name {
+    background: transparent;
+    color: white;
+  }
+  #name::placeholder,
+  #email::placeholder,
+  #textarea::placeholder {
+    color: white;
+  }
